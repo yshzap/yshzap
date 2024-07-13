@@ -1,32 +1,45 @@
-### Hey there, YshZap here!
+# Project Title
 
-<div class="animated-text">
-  <span>Hey there, YshZap here!</span>
-</div>
+Brief project description goes here.
 
-<style>
-  /* Importing a custom font from Google Fonts */
-  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+## Table of Contents
 
-  /* Styling the animated text */
-  .animated-text {
-    font-family: 'Roboto', sans-serif; /* Applying the custom font */
-    font-size: 24px;
-    text-align: center;
-    margin-top: 20px;
-  }
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-  /* Keyframes for the color animation */
-  @keyframes colorChange {
-    0% { color: #FF5733; } /* Random color 1 */
-    25% { color: #DAF7A6; } /* Random color 2 */
-    50% { color: #C70039; } /* Random color 3 */
-    75% { color: #00BFFF; } /* Random color 4 */
-    100% { color: #900C3F; } /* Random color 5 */
-  }
+## Introduction
 
-  /* Applying the animation to the span */
-  .animated-text span {
-    animation: colorChange 5s infinite; /* 5 seconds loop for animation */
-  }
-</style>
+Detailed introduction to the project.
+
+## Features
+
+- Feature 1: Description
+- Feature 2: Description
+
+## Installation
+
+### Prerequisites
+
+- List of prerequisites
+
+### Installation Steps
+
+1. Step 1
+2. Step 2
+3. Step 3
+
+## Usage
+
+Instructions on how to use the project.
+
+## Contributing
+
+Guidelines for contributing to the project.
+
+## License
+
+This project is licensed under the [License Name](license-url).
