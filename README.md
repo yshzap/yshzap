@@ -1,4 +1,4 @@
-## Hi there, I'm V<span style="color:#ff6347;">a</span>ish<span style="color:#6495ed;">n</span>av<span style="color:#7fff00;">!</span>
+## Hi there, I'm Vaishnav! 👋
 
 I'm a web developer from Kerala, India. My birthday is on 9th November 2006. I enjoy creating delightful web applications and exploring new technologies.
 
@@ -12,7 +12,7 @@ I'm a web developer from Kerala, India. My birthday is on 9th November 2006. I e
 - Frontend development, web design, and UI/UX
 
 ### 📫 How to reach me:
-- Email: your.email@example.com
+- Email: yshzap7@gmail.com
 
 ### ⚡ Fun fact:
 I enjoy experimenting with different coding techniques and listening to music while coding!
