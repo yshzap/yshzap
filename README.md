@@ -1,15 +1,20 @@
-<!-- GitHub README.md -->
+## Hi there, I'm Vaishnav! 👋
 
-<!-- Title with random color animation -->
-<h1 style="display: inline-block; border-radius: 5px; padding: 10px; animation: color-change 10s infinite;">YshZap here</h1>
+I'm a web developer from Kerala, India. My birthday is on 9th November 2006. I enjoy creating delightful web applications and exploring new technologies.
 
-<!-- CSS for random color animation -->
-<style>
-  @keyframes color-change {
-    0% { color: #ff6347; } /* Tomato */
-    25% { color: #6495ed; } /* CornflowerBlue */
-    50% { color: #7fff00; } /* Chartreuse */
-    75% { color: #ff69b4; } /* HotPink */
-    100% { color: #ffd700; } /* Gold */
-  }
-</style>
+### 🔭 I’m currently working on:
+- Building responsive web applications using HTML, CSS, and JavaScript
+
+### 🌱 I’m currently learning:
+- Advanced web development techniques
+
+### 💬 Ask me about:
+- Frontend development, web design
+
+### 📫 How to reach me:
+- Email: yshzap7@gmail.com
+
+### ⚡ Fun fact:
+I enjoy experimenting with different coding techniques and listening to music while coding!
+
+Feel free to connect with me and explore my repositories. 😄
